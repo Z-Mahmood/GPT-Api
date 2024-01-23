@@ -1,5 +1,3 @@
-from dotenv import load_dotenv
-
 from gpt import parse_response
 from article import ArticleProcessor
 
